@@ -1,0 +1,15 @@
+{
+  "name": "static-md",
+  "displayName": "static.md",
+  "version": "1.0.0",
+  "description": "Markdown notes and whiteboards your AI agent can read and write: publish shareable notes, sketch diagrams on Excalidraw whiteboards, and keep notes up to date.",
+  "author": {
+    "name": "static.md",
+    "email": "salut@static.md",
+    "url": "https://static.md"
+  },
+  "homepage": "https://static.md/agents",
+  "repository": "https://github.com/static-md/static.md",
+  "license": "MIT",
+  "keywords": ["markdown", "notes", "whiteboard", "excalidraw", "sharing", "mcp"]
+}
