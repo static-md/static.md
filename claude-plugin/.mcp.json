@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "static-md": {
+      "type": "http",
+      "url": "https://static.md/mcp"
+    }
+  }
+}
