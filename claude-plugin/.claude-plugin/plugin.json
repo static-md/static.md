@@ -9,7 +9,15 @@
     "url": "https://static.md"
   },
   "homepage": "https://static.md/agents",
+  "privacyPolicyUrl": "https://static.md/privacy",
   "repository": "https://github.com/static-md/static.md",
   "license": "MIT",
-  "keywords": ["markdown", "notes", "whiteboard", "excalidraw", "sharing", "mcp"]
+  "keywords": [
+    "markdown",
+    "notes",
+    "whiteboard",
+    "excalidraw",
+    "sharing",
+    "mcp"
+  ]
 }
