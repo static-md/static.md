@@ -10,6 +10,9 @@
   },
   "homepage": "https://static.md/agents",
   "privacyPolicyUrl": "https://static.md/privacy",
+  "termsOfServiceUrl": "https://static.md/terms",
+  "documentationUrl": "https://static.md/agents",
+  "supportUrl": "https://static.md/contact",
   "repository": "https://github.com/static-md/static.md",
   "license": "MIT",
   "keywords": [
