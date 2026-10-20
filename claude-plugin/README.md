@@ -2,6 +2,15 @@
 
 [static.md](https://static.md) hosts markdown notes and Excalidraw whiteboards that you can share with a link and edit together in real time. This plugin connects Claude to your static.md account, so Claude can publish what you write together as a shareable note, sketch diagrams on a whiteboard, and keep your existing notes up to date.
 
+## What you can use it for
+
+- **Memory shared between agents.** Claude Code writes decisions and a handoff note while it works; tomorrow claude.ai on your phone, Cursor or another agent reads the same note and carries on.
+- **Todo lists and plans Claude keeps current.** Ask Claude to plan your week or a project, and it keeps the note or board up to date as things change. Open it on any device.
+- **Notes during a call.** Everyone on the call opens the same note link and types together with live cursors, while Claude adds the summary, decisions and action items.
+- **Shareable answers.** "Put this on static.md" turns a summary, a spec or meeting notes into a link you can send, instead of a wall of text in chat.
+- **Diagrams you can keep editing.** Claude sketches an architecture, a flow or a timeline on an Excalidraw whiteboard; you and your team refine it by hand.
+- **A notepad between you and your assistant.** One note with a dated section Claude writes into, and you write requests back from your phone.
+
 ## What's inside
 
 - **The static.md MCP server** at `https://static.md/mcp`. It gives Claude eight tools:
