@@ -1,9 +1,9 @@
 {
   "name": "static-md",
   "displayName": "static.md",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Markdown notes and whiteboards that you, your team and your AI agents can all open and edit: shared memory between agents, todo lists and plans Claude keeps current, notes taken live during a call, and diagrams on Excalidraw whiteboards, each with a shareable link.",
-  "icon": "./icon.png",
+  "icon": "https://static.md/brand/static-md-512.png",
   "author": {
     "name": "static.md",
     "email": "salut@static.md",
