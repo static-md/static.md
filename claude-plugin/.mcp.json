@@ -2,7 +2,10 @@
   "mcpServers": {
     "static-md": {
       "type": "http",
-      "url": "https://static.md/mcp"
+      "url": "https://static.md/mcp",
+      "oauth": {
+        "clientId": "claude-code"
+      }
     }
   }
 }
