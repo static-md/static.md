@@ -34,8 +34,8 @@ At [static.md](https://static.md):
 
 - **Collaborative markdown notes.** Edit, split or preview mode with live multi-user editing, syntax highlighting, Mermaid diagrams and task lists. No account needed to start.
 - **Whiteboards.** Excalidraw boards that sync in real time and can be embedded in notes.
-- **MCP server for AI agents.** With your approval, agents can list, read, create and update your notes, read and create your whiteboards, and change who can open them. Note content reaches the agent marked as untrusted data.
-- **End-to-end encryption (Pro).** Encrypted notes are encrypted in your browser, so neither static.md nor any agent can read them.
+- **MCP server for AI agents.** With your approval, agents can list, read, create, update, rename and move your notes, read and create your whiteboards, keep a memory folder, upload images, and change who can open them. On Pro they can also search your notes and, through the open-source [E2E bridge](https://github.com/static-md/e2e-bridge) on your computer, read and write your end-to-end encrypted notes. Note content reaches the agent marked as untrusted data.
+- **End-to-end encryption (Pro).** Encrypted notes are encrypted in your browser, so static.md can't read them. An agent can read them only through the E2E bridge on your computer, which holds the key.
 - **Sharing controls (Pro).** Read-only links, and access limited to the email addresses you list.
 - **Image hosting (this repository).** Drag-and-drop uploads with short links, multi-image galleries, on-the-fly resizing with `?size=N`, served from a CDN.
 - **Screenshots.** The [StaticShot Chrome extension](https://chromewebstore.google.com/detail/staticshot-screenshot-cap/bbgoenllpdnfljjapjcababahphohncj) and [StaticShot for Mac](https://static.md/mac) capture, annotate and upload in one step.
